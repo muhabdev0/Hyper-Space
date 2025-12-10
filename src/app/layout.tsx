@@ -5,7 +5,10 @@ import { cn } from '@/lib/utils';
 
 export const metadata: Metadata = {
   title: 'HyperSpace',
-  description: 'A futuristic 3D website built with Next.js and Firebase.',
+  description: 'A futuristic 3D website built with Next.js',
+  icons: {
+     icon: '/favicon.png',
+  },
 };
 
 export default function RootLayout({
@@ -22,6 +25,7 @@ export default function RootLayout({
           href="https://fonts.gstatic.com"
           crossOrigin="anonymous"
         />
+          <link rel="icon" href="/favicon.png" />
         <link
           href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Space+Grotesk:wght@700&display=swap"
           rel="stylesheet"
