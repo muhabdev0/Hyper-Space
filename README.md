@@ -26,7 +26,7 @@ Ready to explore the code yourself? Here’s how to get it running locally:
 Clone the repository:
 
 ```
-git clone https://github.com/muhabdev0/Hyper-Space.git'''
+git clone https://github.com/muhabdev0/Hyper-Space.git
 cd hyperspace
 ```
 
@@ -43,6 +43,7 @@ npm run dev
 ```
 
 Open up http://localhost:9002 in your browser to see the magic happen.
+
 
 
 
