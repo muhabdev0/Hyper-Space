@@ -1,0 +1,46 @@
+{
+  "placeholderImages": [
+    {
+      "id": "about-visual",
+      "description": "Abstract technological background for about section",
+      "imageUrl": "https://images.unsplash.com/photo-1675334758735-5f989ff8237f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxhYnN0cmFjdCUyMHRlY2hub2xvZ3l8ZW58MHx8fHwxNzY1MTQ3NTU5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "abstract technology"
+    },
+    {
+      "id": "showcase-1",
+      "description": "Futuristic cityscape for showcase gallery",
+      "imageUrl": "https://images.unsplash.com/photo-1743177901100-07c27ac2da59?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxmdXR1cmlzdGljJTIwY2l0eXNjYXBlfGVufDB8fHx8MTc2NTEzMDU0MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "futuristic cityscape"
+    },
+    {
+      "id": "showcase-2",
+      "description": "Glowing data streams for showcase gallery",
+      "imageUrl": "https://images.unsplash.com/photo-1739589338356-6ac1031a4a13?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxkYXRhJTIwc3RyZWFtfGVufDB8fHx8MTc2NTExNzYyN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "data stream"
+    },
+    {
+      "id": "showcase-3",
+      "description": "Holographic interface for showcase gallery",
+      "imageUrl": "https://images.unsplash.com/photo-1546557016-950084dd8399?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxob2xvZ3JhcGhpYyUyMGludGVyZmFjZXxlbnwwfHx8fDE3NjUxNDg1NDF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "holographic interface"
+    },
+    {
+      "id": "showcase-4",
+      "description": "Cybernetic human face for showcase gallery",
+      "imageUrl": "https://images.unsplash.com/photo-1688476050415-a96a631cafbc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxjeWJlcm5ldGljJTIwZmFjZXxlbnwwfHx8fDE3NjUxOTU4NzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cybernetic face"
+    },
+    {
+      "id": "showcase-5",
+      "description": "Neon geometric shapes for showcase gallery",
+      "imageUrl": "https://images.unsplash.com/photo-1565928472362-fe784a95fe7c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxuZW9uJTIwZ2VvbWV0cmljfGVufDB8fHx8MTc2NTEyNzExMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "neon geometric"
+    },
+    {
+      "id": "showcase-6",
+      "description": "Spaceship interior for showcase gallery",
+      "imageUrl": "https://images.unsplash.com/photo-1633120737906-55ff0677e41c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxzcGFjZXNoaXAlMjBpbnRlcmlvcnxlbnwwfHx8fDE3NjUxOTU4NzJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "spaceship interior"
+    }
+  ]
+}
