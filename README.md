@@ -25,17 +25,24 @@ Ready to explore the code yourself? Here’s how to get it running locally:
 
 Clone the repository:
 
-'''git clone https://github.com/muhabdev0/Hyper-Space.git'''
-'''cd hyperspace'''
+```
+git clone https://github.com/muhabdev0/Hyper-Space.git'''
+cd hyperspace
+```
 
 Install dependencies:
 
-'''npm install'''
+```
+npm install
+```
 
 Run the development server:
 
-'''npm run dev'''
+```
+npm run dev
+```
 
 Open up http://localhost:9002 in your browser to see the magic happen.
+
 
 
